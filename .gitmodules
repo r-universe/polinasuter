@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BiDAG"]
+	path = BiDAG
+	url = https://github.com/cran/BiDAG
+	shallow = true
+	registered = true
+[submodule "bnClustOmics"]
+	path = bnClustOmics
+	url = https://github.com/cran/bnClustOmics
+	shallow = true
+	registered = true
