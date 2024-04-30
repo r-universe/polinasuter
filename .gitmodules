@@ -5,6 +5,3 @@
 [submodule "BiDAG"]
 	path = BiDAG
 	url = https://github.com/cran/BiDAG
-[submodule "bnClustOmics"]
-	path = bnClustOmics
-	url = https://github.com/cran/bnClustOmics
